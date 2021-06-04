@@ -19,3 +19,4 @@ What I learned from the project:
 
 I learned about source control involved with functions and tools to use within VSCode to ignore and differencetiate files, and reefactoring.  
 
+![hangman.png](hangman.png)
